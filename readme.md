@@ -6,7 +6,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Solway&size=35&pause=1000&color=E6B9F7&center=true&vCenter=true&width=700&lines=I'm+Front-end+Developer;I'm+currently+learning+Web;)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Solway&size=35&pause=1000&color=E6B9F7&center=true&vCenter=true&width=1000&lines=I'm+Front-end+Developer;I'm+currently+learning+Web;)](https://git.io/typing-svg)  
 
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyejee0504&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
