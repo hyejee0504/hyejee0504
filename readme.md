@@ -10,4 +10,4 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyejee0504&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
+<img src="https://raw.githubusercontent.com/hyejee0504/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
