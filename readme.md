@@ -22,7 +22,7 @@
   
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=tailwind&logoColor=white">
+  <img src="https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=Tailwind css&logoColor=white">
   
 </div>
 
