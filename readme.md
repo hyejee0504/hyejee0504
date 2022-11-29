@@ -1,12 +1,20 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:f6acdd,100:c6acf6&height=280&section=header&text=Hello%20World✋%20I'm%20Hyeji!&fontSize=50&fontColor=ffffff )  
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:f6acdd,100:c6acf6&width=1500&height=280&section=header&text=Hello%20World✋%20I'm%20Hyeji!&fontSize=50&fontColor=ffffff )  
 
 
+<div align="center">
 
+  <br>
+  <br>
+  <br>
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Solway&size=35&pause=1000&color=E6B9F7&center=true&vCenter=true&width=1000&lines=I'm+Front-end+Developer;I'm+currently+learning+Web;)](https://git.io/typing-svg)  
+  
+</div>
 
+<br>
+<br>
+<br>
 
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Solway&size=35&pause=1000&color=E6B9F7&center=true&vCenter=true&width=1000&lines=I'm+Front-end+Developer;I'm+currently+learning+Web;)](https://git.io/typing-svg)  
 
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyejee0504&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
@@ -23,9 +31,23 @@
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=Tailwind css&logoColor=white">
+  <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+  <br>
+  
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/styled-component-DB7093?style=for-the-badge&logo=styled-component&logoColor=white">
+  <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+  <br>
+  
+  <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+  
   
 </div>
-
+<br>
+<br>
+<br>
 
 ## Github-stats ⏲️  
 
