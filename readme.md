@@ -2,21 +2,15 @@
 
 
 <div align="center">
-
-  <br>
   <br>
   <br>
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Solway&size=35&pause=1000&color=E6B9F7&center=true&vCenter=true&width=1000&lines=I'm+Front-end+Developer;I'm+currently+learning+Web;)](https://git.io/typing-svg)  
   
 </div>
-
 <br>
 <br>
 
-
-
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyejee0504&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## Stacks 📖
 <div align="center">
@@ -46,7 +40,15 @@
 </div>
 <br>
 <br>
-<br>
+
+## About Me📫
+<div align=center>
+           <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:seok157500@gmail.com">
+
+  <br>
+  <br>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyejee0504%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
+</div>
 
 ## Github-stats ⏲️  
 
