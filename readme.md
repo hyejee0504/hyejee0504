@@ -51,4 +51,4 @@
 
 ## Github-stats ⏲️  
 
-<img src="https://raw.githubusercontent.com/hyejee0504/github-stats-transparent/output/generated/overview.svg" width="49.2%" /> <img src="https://raw.githubusercontent.com/hyejee0504/github-stats-transparent/output/generated/languages.svg?exclude_repo=test1" width="49.2%" />
+<img src="https://raw.githubusercontent.com/hyejee0504/github-stats-transparent/output/generated/overview.svg" width="49.2%" /> <img src="https://raw.githubusercontent.com/hyejee0504/github-stats-transparent/output/generated/languages.svg?exclude_repo=SQool" width="49.2%" />
