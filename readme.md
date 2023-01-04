@@ -52,3 +52,19 @@
 ## Github-stats ⏲️  
 
 <img src="https://raw.githubusercontent.com/hyejee0504/github-stats-transparent/output/generated/overview.svg" width="49.2%" /> <img src="https://raw.githubusercontent.com/hyejee0504/github-stats-transparent/output/generated/languages.svg?exclude_repo=SQool" width="49.2%" />
+
+
+
+
+<div style="display: flex;">
+  <p>??</p>
+  <p>??</p>
+  <p>??</p>
+ </div>
+  
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=soup1997)](https://velog.io/@soup1997)
+  [![CV](https://img.shields.io/badge/-CV-orange?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://github.com/soup1997/Hyunseup-Jo-CV/blob/origin/HyunseupJo_CV.pdf)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyunseup0815@gmail.com)](mailto:hyunseup0815@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=round-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/%ED%98%84%EC%8A%B5-%EC%A1%B0-529821255/)](https://www.linkedin.com/in/%ED%98%84%EC%8A%B5-%EC%A1%B0-529821255/)
+  
+<!-- </div> -->
