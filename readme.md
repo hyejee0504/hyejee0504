@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=c6acf6&width=1500&height=240&section=header&text=Hello%20World✋%20I'm%20Hyeji!&fontSize=50&fontColor=ffffff )  
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:c6acf6,100:E6B9F7&width=1500&height=240&section=header&text=Hello%20World✋%20I'm%20Hyeji!&fontSize=50&fontColor=ffffff )  
 
 
 <div align="center">
@@ -40,9 +40,10 @@
 
 <br>
 
-## About Me📫
+## Contact📫
 <div align=center>
           <a href="mailto:seok157500@gmail.com"> <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:seok157500@gmail.com"> </a>
+  <a href="https://velog.io/@hyejee0504"> <img src="https://img.shields.io/badge/velog-12b886?style=for-the-badge&logo=velog&logoColor=white&link=https://velog.io/@hyejee0504"> </a>
 
 
   <br>
