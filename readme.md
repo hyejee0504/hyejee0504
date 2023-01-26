@@ -4,7 +4,7 @@
 <div align="center">
   <br>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Solway&size=35&pause=1000&color=E6B9F7&center=true&vCenter=true&width=1000&lines= I'm+Front-end+Developer;I'm+currently+learning+Web;)](https://git.io/typing-svg) 
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Gothic+Coding&size=35&pause=1000&color=E6B9F7&center=true&vCenter=true&width=1000&lines=“기술+스택을+빠르게+흡수하는+개발자+입니다.”;“함께+성장하는+것을+꾸준히+고민하는+개발자+입니다.”;)](https://git.io/typing-svg) 
   
 </div>
 
