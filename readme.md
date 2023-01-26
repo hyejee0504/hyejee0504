@@ -4,7 +4,7 @@
 <div align="center">
   <br>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Solway&size=35&pause=1000&color=E6B9F7&center=true&vCenter=true&width=1000&lines=I'm+Front-end+Developer;I'm+currently+learning+Web;)](https://git.io/typing-svg) 
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Solway&size=35&pause=1000&color=E6B9F7&center=true&vCenter=true&width=1000&lines= I'm+Front-end+Developer;I'm+currently+learning+Web;)](https://git.io/typing-svg) 
   
 </div>
 
@@ -44,6 +44,7 @@
 <div align=center>
           <a href="mailto:seok157500@gmail.com"> <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:seok157500@gmail.com"> </a>
   <a href="https://velog.io/@hyejee0504"> <img src="https://img.shields.io/badge/velog-12b886?style=for-the-badge&logo=velog&logoColor=white&link=https://velog.io/@hyejee0504"> </a>
+  <a href="https://maze-yacht-da0.notion.site/Jr-Front-end-Developer-8a7cbcfad1d049b48f5150f0b3a1bf40"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white&link=https://maze-yacht-da0.notion.site/Jr-Front-end-Developer-8a7cbcfad1d049b48f5150f0b3a1bf40"> </a>
 
 
   <br>
