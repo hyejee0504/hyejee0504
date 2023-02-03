@@ -56,28 +56,3 @@
 <img src="https://raw.githubusercontent.com/hyejee0504/github-stats-transparent/output/generated/overview.svg" width="49.2%" /> <img src="https://raw.githubusercontent.com/hyejee0504/github-stats-transparent/output/generated/languages.svg?exclude_repo=Frontend-School3" width="49.2%" />
 
 
-<div align= "center"><img src="https://capsule-render.vercel.app/api?type=wave&color=#b897ff&height=120&text=&animation=&fontColor=000000&fontSize=70&fontAlign=50" /> </div>
-    <div style="text-align: left;"> <h2> ㅁㄴㅇㄹ </h2>  <div style="font-weight: 700; font-size: 15px; text-align: left;"> 
-    <li> ㅁㄴㅇㄹ</li><li> ㅁㄴㅇㄻㄴㅇㄹ </div> </div>
-    <div style="text-align: left;"><h2> 🛠️ Tech Stacks </h2> <br> <div  align= "center"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
-          <img src="https://img.shields.io/badge/Apollo GraphQL-311C87?style=for-the-badge&logo=Apollo GraphQL&logoColor=white">
-          <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-          <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=Gatsby&logoColor=white">
-          <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white">
-          <img src="https://img.shields.io/badge/IOS-000000?style=for-the-badge&logo=IOS&logoColor=white">
-          <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-          </div></div>
-    <div style="text-align: left;"><h2> 🧑‍💻 Contact me </h2> <br> <div align= "center"> <a href=> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white&link="> </a>
-         <a href=> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link="> </a>
-         <a href=> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link="> </a>
-          </div>  <br> <div align= "center">  </div> </div>
-    <div style="text-align: left;"> <h2> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=soup1997&bg_color=180,00000000,&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soup1997&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000"
-           /> </div> </div>
-    
-
-
