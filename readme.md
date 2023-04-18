@@ -43,7 +43,7 @@
 <div align=center>
           <a href="mailto:seok157500@gmail.com"> <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:seok157500@gmail.com"> </a>
   <a href="https://velog.io/@hyejee0504"> <img src="https://img.shields.io/badge/velog-12b886?style=for-the-badge&logo=velog&logoColor=white&link=https://velog.io/@hyejee0504"> </a>
-  <a href="https://maze-yacht-da0.notion.site/Jr-Front-end-Developer-8a7cbcfad1d049b48f5150f0b3a1bf40"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white&link=https://maze-yacht-da0.notion.site/Jr-Front-end-Developer-8a7cbcfad1d049b48f5150f0b3a1bf40"> </a>
+  <a href="https://maze-yacht-da0.notion.site/Jr-Front-end-Developer-e093714d272f42ada0f0dadf588ca957"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white&link=https://maze-yacht-da0.notion.site/Jr-Front-end-Developer-8a7cbcfad1d049b48f5150f0b3a1bf40"> </a>
 
 
   <br>
